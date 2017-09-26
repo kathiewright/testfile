@@ -1,2 +1,0 @@
-# testfile
-My individual project
